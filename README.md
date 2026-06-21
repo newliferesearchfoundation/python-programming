@@ -230,7 +230,7 @@ Created for beginners learning Python programming.
 
 ---
 
-**Happy Coding! 🐍✨**
+**Happy Coding!**
 
 Questions? Issues? Create an issue on GitHub or reach out!
 
