@@ -4,6 +4,10 @@
 
 Peter Denen Tsaha
 
+## Teaching Assistants (s)
+
+Terkuma Saaondo
+
 ## Python Programming Basics for Beginners
 
 A comprehensive repository introducing fundamental Python programming concepts with clear explanations, practical examples, and hands-on exercises.
